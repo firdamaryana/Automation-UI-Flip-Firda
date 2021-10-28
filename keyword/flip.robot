@@ -1,8 +1,7 @@
 *** Settings ***
-Documentation           Quipper Technical Test
+Documentation           Flip Technical Test
 Resource                ${EXECDIR}/common/config.robot
 Resource                ${EXECDIR}/common/keyword/common_keyword.robot
-#Resource                ${EXECDIR}/variable/web/shipper_bos_web/account/qasir_login.robot
 Resource                ${EXECDIR}/common/keyword/web.robot
 
 *** Variables ***
